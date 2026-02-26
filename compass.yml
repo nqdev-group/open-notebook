@@ -1,0 +1,16 @@
+name: open-notebook
+id: ari:cloud:compass:d080ee26-f21d-4730-84de-98c025104c05:component/e09ef9ad-8d69-4877-b0ee-7395c9ca13a3/9e2ce8f7-14f1-44de-93bb-2ca4c2469f55
+description: An Open Source implementation of Notebook LM with more flexibility and features
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/nqdev-group/open-notebook
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
